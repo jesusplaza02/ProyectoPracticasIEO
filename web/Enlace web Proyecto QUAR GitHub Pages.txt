@@ -1,0 +1,4 @@
+Nuevo prototipo de página web de tipo GitHub Pages.
+
+A continuación se muestra en enlace del sitio web:
+https://jesusplaza02.github.io/WebProyectoQUAR
