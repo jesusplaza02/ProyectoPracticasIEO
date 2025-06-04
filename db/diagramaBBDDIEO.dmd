@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="diagramaBBDDIEO" id="42567D77-9C20-CE04-87B7-C433997E7AB2" version="3.5">
+<createdBy>JesúsDíaz</createdBy>
+<createdTime>2025-05-15 09:14:26 UTC</createdTime>
+<ownerDesignName>diagramaBBDDIEO</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>42567D77-9C20-CE04-87B7-C433997E7AB2</designId>
+</OSDM_Design>
